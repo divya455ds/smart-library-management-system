@@ -1,8 +1,7 @@
 #  Library Management System (AI-Powered)
 
 🔗 **Live Frontend:** [LIVE DEMO](https://library-management-system-ten-dun.vercel.app/)  
-🔗 **Backend API:** [library-management-system-production-5012.up.railway.app]  
-🔗 **Github Repo:** [https://github.com/GentritDev/library-management-system]  
+🔗 **Github Repo:** [https://github.com/divya455ds/smart-library-management-system]
 
 ---
 
@@ -11,12 +10,6 @@
 An AI-powered Library Management System built with **React** and **Node.js**.  
 Users can manage their personal book collections, while admins can analyze library data using natural language queries.
 
-Developed as part of the ** Internship Project 2025**.
-
----
-## ⚠️ Note on Deployment
-
-The backend was previously deployed on Railway, but the free trial has expired.
 
 To run locally:
 
@@ -51,12 +44,6 @@ To run locally:
 - Axios
 - Tailwind CSS
 
-**Backend**
-- Node.js + Express
-- PostgreSQL + Sequelize
-- JWT & Bcrypt
-- Groq AI (LLaMA 3.3-70B)
-
 ---
 
 ## Local Development
@@ -78,4 +65,4 @@ Database: Railway PostgreSQL
 
 ## Author
 
-Gentrit Ahmeti
+Divya Sharma
